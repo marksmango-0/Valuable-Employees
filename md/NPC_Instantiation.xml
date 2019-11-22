@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+		<replace sel="/mdscript/cues/library[@name='CalculateNPCHiringFee']">
+			<library name="CalculateNPCHiringFee">
+				<actions>
+					<set_value name="this.$npc.$HiringFee" exact="this.$npc.combinedskill * 750"/>
+					<set_value name="this.$npc.$HiringFee" min="300" max="4500" operation="add"/>
+					<!--Round to number ending in 0-->
+					<set_value name="this.$npc.$HiringFee" exact="(((this.$npc.$HiringFee)i / 10) * 10)Cr"/>
+				</actions>
+			</library>
+		</replace>
+</diff>

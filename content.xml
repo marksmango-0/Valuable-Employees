@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="valuableemployees" name="Valuable Employees" description="Raises the hiring cost of employees based on skill level"  author="marksmango" version="001" date="2019-01-01" save="0">
+  <text language="7" name="Valuable Employees" description="Raises the hiring cost of employees based on skill level"  author="marksmango" />
+  <text language="33" name="Valuable Employees" description="Raises the hiring cost of employees based on skill level"  author="marksmango" />
+  <text language="34" name="Valuable Employees" description="Raises the hiring cost of employees based on skill level"  author="marksmango" />
+  <text language="39" name="Valuable Employees" description="Raises the hiring cost of employees based on skill level"  author="marksmango" />
+  <text language="44" name="Valuable Employees" description="Raises the hiring cost of employees based on skill level"  author="marksmango" />
+  <text language="49" name="Valuable Employees" description="Raises the hiring cost of employees based on skill level"  author="marksmango" />
+  <text language="86" name="Valuable Employees" description="Raises the hiring cost of employees based on skill level"  author="marksmango" />
+  <text language="88" name="Valuable Employees" description="Raises the hiring cost of employees based on skill level"  author="marksmango" />
+</content>
